@@ -1,5 +1,5 @@
 ### Task link
-[(https://github.com/rostyslavsribnyi-pzs241/lab1.1-version-control/tree/initialize-repository)]
+https://github.com/rostyslavsribnyi-pzs241/lab1.1-version-control/tree/initialize-repository
 
 ### What has been changed?
 - Describe changes here
