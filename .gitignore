@@ -1,0 +1,25 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# Node
+node_modules/
+
+# Ruby
+*.gem
+.bundle/
+
+# Python
+__pycache__/
+*.pyc
+
+# Temporary
+*.tmp
+*.cache
